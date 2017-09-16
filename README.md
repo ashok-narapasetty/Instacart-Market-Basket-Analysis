@@ -4,7 +4,7 @@ my first kaggle project.
 
 ## 1. Instacart Market Basket Analysis.ipynb
 * this is my project main file.
-* it contain all the visualizations, preprocessing, model building and prediction
+* It contain all the Data wrangling, visualizations, preprocessing, model building and prediction
 
 ## 2. insta_result.csv
 * this is the predicted product lists that users buy in their next orders.
