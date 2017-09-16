@@ -1,5 +1,5 @@
 # Instacart-Market-Basket-Analysis
-my first kaggle project.
+Given the information about prior orders, predicting the poducts that will present in user's next orders.
 
 
 ## 1. Instacart Market Basket Analysis.ipynb
